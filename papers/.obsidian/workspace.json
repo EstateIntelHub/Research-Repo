@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "eaceb86c7a67da31",
+    "type": "split",
+    "children": [
+      {
+        "id": "94dfc9e2ea7887ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6670aa180757b13a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce4305e3bbdd25cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "61cacdc8b8ed0fdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20c86cdd2536337b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0120c50fc6e35cc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74e024b6f48a4966",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a00f4a1ed14a7277",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ebb2cf1178f2e7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db642a53131d4d0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f39f7a29e00403d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a0c8a5346887091",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f6a6a7c728902d1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6670aa180757b13a",
+  "lastOpenFiles": [
+    "Master Thesis Example/1- Real Estate Price Prediction Using Machine.pdf",
+    "Master Thesis Example/5- Paper Model ex.pdf",
+    "0 - Machine Learning, Deep Learning, and Hedonic Methods for Real Estate Price Prediction.pdf",
+    "Master Thesis Example",
+    "New folder",
+    "4 - The Use of Machine Learning in Real Estate Research.pdf",
+    "3 - Housing Market Prediction Problem using Different Machine Learning Algorithms.pdf",
+    "3 -Housing Market Prediction Problem using Different Machine Learning Algorithms.pdf",
+    "6 - An Optimal House Price Prediction Algorithm XGBoost.pdf",
+    "5- Paper Model ex.pdf",
+    "4 - land-12-00740.pdf"
+  ]
+}
